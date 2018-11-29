@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Apr 24 14:37:24 2017
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : HW8_902912673
+Top-level Entity Name : hw6_top
+Family : Cyclone V
+Device : 5CGXFC7C7F23C8
+Timing Models : Final
+Logic utilization (in ALMs) : 556 / 56,480 ( < 1 % )
+Total registers : 416
+Total pins : 63 / 268 ( 24 % )
+Total virtual pins : 0
+Total block memory bits : 4,202,496 / 7,024,640 ( 60 % )
+Total RAM Blocks : 514 / 686 ( 75 % )
+Total DSP Blocks : 0 / 156 ( 0 % )
+Total HSSI RX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )
+Total HSSI TX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 6 ( 0 % )
+Total PLLs : 0 / 13 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

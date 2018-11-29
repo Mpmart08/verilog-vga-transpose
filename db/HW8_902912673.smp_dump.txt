@@ -1,0 +1,13 @@
+
+State Machine - |hw6_top|hw6_edge:edgedetect|PS
+Name PS.IDLE PS.END PS.ACTIVE 
+PS.IDLE 0 0 0 
+PS.ACTIVE 1 0 1 
+PS.END 1 1 0 
+
+State Machine - |hw6_top|hw6_transpose:transpose|PS
+Name PS.OUT PS.WAIT PS.IN PS.IDLE 
+PS.IDLE 0 0 0 0 
+PS.IN 0 0 1 1 
+PS.WAIT 0 1 0 1 
+PS.OUT 1 0 0 1 
